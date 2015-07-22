@@ -1,0 +1,42 @@
+[
+	{
+		"currentName": "Seville",
+		"currentLocation": "seville",
+		"nextLocation": "canary-islands"
+	}
+	,
+	{
+		"currentName": "Canary Islands",
+		"currentLocation": "canary-islands",
+		"nextLocation": "cape-verde"
+	}
+	,
+	{
+		"currentName": "Cape Verde",
+		"currentLocation": "cape-verde",
+		"nextLocation": "strait-of-magellan"
+	}
+	,
+	{
+		"currentName": "Strait of Magellan",
+		"currentLocation": "strait-of-magellan",
+		"nextLocation": "guam"
+	}
+	,
+	{
+		"currentName": "Guam",
+		"currentLocation": "guam",
+		"nextLocation": "america"
+	}
+	,
+	{
+		"currentName": "America",
+		"currentLocation": "america",
+		"nextLocation": "phillipines"
+	}
+	,
+	{
+		"currentName": "Phillipines",
+		"currentLocation": "phillipines"
+	}
+]
